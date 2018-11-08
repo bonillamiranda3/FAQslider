@@ -1,2 +1,0 @@
-# FAQslider
-Created with CodeSandbox
